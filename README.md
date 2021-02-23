@@ -9,6 +9,7 @@ Solutions are written in C++
 (i got 97% overall grade from assignments)
 
 Greedy algorithm didn't work correctly all the time. So i did solve some of them by using aspects of dynamic programming, and memoization.
+This way i was able to reduce time complexity from O(n^2) to O(nlogn).
 
 Please refer to corresponding PDF's under each folder. There are descriptions for problems. 
 
