@@ -7,3 +7,6 @@ Solutions are written in C++
 (week4 assignment6 is excluded)
 
 (i got 97% overall grade from assignments)
+
+**Please refer to corresponding PDF's under each folder. There are descriptions for problems. **
+
