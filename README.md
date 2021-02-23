@@ -8,5 +8,5 @@ Solutions are written in C++
 
 (i got 97% overall grade from assignments)
 
-Please refer to corresponding PDF's under each folder. There are descriptions for problems. 
+**Please refer to corresponding PDF's under each folder. There are descriptions for problems. 
 
