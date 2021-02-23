@@ -8,5 +8,7 @@ Solutions are written in C++
 
 (i got 97% overall grade from assignments)
 
-**Please refer to corresponding PDF's under each folder. There are descriptions for problems. 
+Greedy algorithm didn't work correctly all the time. So i did solve some of them by using aspects of dynamic programming, and memoization.
+
+Please refer to corresponding PDF's under each folder. There are descriptions for problems. 
 
